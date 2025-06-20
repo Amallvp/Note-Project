@@ -45,6 +45,12 @@ Copy
 Edit
 npm install
 3. ✅ Configure Environment Variables
+
+PORT="Server port"
+MONGODBURI= "MongoDB URL " 
+JWT_SECRET= "Any key or UUID can be given"
+
+
 4. ✅ Connect to MongoDB
 5. ✅ Run the Server - npm run dev
 
